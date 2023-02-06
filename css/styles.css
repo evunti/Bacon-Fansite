@@ -16,6 +16,6 @@ img {
     margin-right: auto;
     isolation: isolate;
 }
-img:hover {
+/*img:hover {
     background-color: rgb(194, 114, 235);
-}
+}*/
